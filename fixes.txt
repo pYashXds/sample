@@ -8,3 +8,5 @@
  this is the rebase working test
 
  add fix 67
+  
+add fix 68
