@@ -6,3 +6,6 @@
  add another fix in this branch
 
  this is the rebase working test
+
+ add fix 67
+ 
